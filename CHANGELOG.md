@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3
+
+Update `html-gren` to `4.0.0`
+
 ## 1.0.2
 
 Update `html-gren` to `3.0.0`

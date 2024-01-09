@@ -4,7 +4,7 @@
     "name": "icidasset/svg-gren",
     "summary": "SVG package based on icidasset/html-gren",
     "license": "BSD-3-Clause",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "exposed-modules": [
         "Transmutable.Svg",
         "Transmutable.Svg.Attributes"
@@ -12,6 +12,6 @@
     "gren-version": "0.3.0 <= v < 0.4.0",
     "dependencies": {
         "gren-lang/core": "4.0.0 <= v < 5.0.0",
-        "icidasset/html-gren": "3.0.0 <= v < 4.0.0"
+        "icidasset/html-gren": "4.0.0 <= v < 5.0.0"
     }
 }
