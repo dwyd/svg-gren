@@ -118,7 +118,7 @@ svg : Array (Html.Attribute msg) -> Array (Svg msg) -> Html.Html msg
 svg attributes =
     node
         "svg"
-        (Array.prefix
+        (Array.prepend
             [ xmlns "http://www.w3.org/2000/svg"
             , attribute "xmlns:xlink" "http://www.w3.org/1999/xlink"
             , attribute "xmlns:xml" "http://www.w3.org/XML/1998/namespace"
