@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.0
+
+Update to gren v0.6.x
+
 ## 2.0.0
 
 Update to gren v0.5.x
